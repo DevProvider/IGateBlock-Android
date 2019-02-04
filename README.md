@@ -1,2 +1,2 @@
-# IGateBlock-Android
+# IGiftBlock-Android
 Android Project for the IGateBlock project.
